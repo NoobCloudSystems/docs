@@ -1,0 +1,92 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:xyz.luccboy.noobcloud.api.events.minestom////PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.minestom/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.minestom/ServerChangeGameStateMinestomEvent///PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.minestom/-server-change-game-state-minestom-event/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.minestom/ServerChangeGameStateMinestomEvent/ServerChangeGameStateMinestomEvent/#xyz.luccboy.noobcloud.api.server.GameState/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.minestom/-server-change-game-state-minestom-event/-server-change-game-state-minestom-event.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.minestom/ServerChangeGameStateMinestomEvent/getGameState/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.minestom/-server-change-game-state-minestom-event/get-game-state.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.minestom/ServerChangeGameStateMinestomEvent/toString/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.minestom/-server-change-game-state-minestom-event/to-string.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.minestom/ServerMessageMinestomEvent///PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.minestom/-server-message-minestom-event/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.minestom/ServerMessageMinestomEvent/ServerMessageMinestomEvent/#kotlin.collections.List[kotlin.String]/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.minestom/-server-message-minestom-event/-server-message-minestom-event.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.minestom/ServerMessageMinestomEvent/getMessage/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.minestom/-server-message-minestom-event/get-message.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.minestom/ServerMessageMinestomEvent/toString/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.minestom/-server-message-minestom-event/to-string.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.velocity////PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.velocity/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.velocity/ServerChangeGameStateVelocityEvent///PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.velocity/-server-change-game-state-velocity-event/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.velocity/ServerChangeGameStateVelocityEvent/ServerChangeGameStateVelocityEvent/#xyz.luccboy.noobcloud.api.server.GameState/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.velocity/-server-change-game-state-velocity-event/-server-change-game-state-velocity-event.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.velocity/ServerChangeGameStateVelocityEvent/getGameState/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.velocity/-server-change-game-state-velocity-event/get-game-state.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.velocity/ServerChangeGameStateVelocityEvent/toString/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.velocity/-server-change-game-state-velocity-event/to-string.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.velocity/ServerMessageVelocityEvent///PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.velocity/-server-message-velocity-event/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.velocity/ServerMessageVelocityEvent/ServerMessageVelocityEvent/#kotlin.collections.List[kotlin.String]/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.velocity/-server-message-velocity-event/-server-message-velocity-event.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.velocity/ServerMessageVelocityEvent/getMessage/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.velocity/-server-message-velocity-event/get-message.html
+$dokka.location:xyz.luccboy.noobcloud.api.events.velocity/ServerMessageVelocityEvent/toString/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.events.velocity/-server-message-velocity-event/to-string.html
+$dokka.location:xyz.luccboy.noobcloud.api.group////PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.group/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.group/Group///PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.group/-group/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.group/Group/getGroupType/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.group/-group/get-group-type.html
+$dokka.location:xyz.luccboy.noobcloud.api.group/Group/getName/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.group/-group/get-name.html
+$dokka.location:xyz.luccboy.noobcloud.api.group/Group/getServers/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.group/-group/get-servers.html
+$dokka.location:xyz.luccboy.noobcloud.api.group/Group/isLobby/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.group/-group/is-lobby.html
+$dokka.location:xyz.luccboy.noobcloud.api.group/Group/isStatic/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.group/-group/is-static.html
+$dokka.location:xyz.luccboy.noobcloud.api.group/GroupType.GAME///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-noob-cloud/xyz.luccboy.noobcloud.api.group/-group-type/-g-a-m-e/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.group/GroupType.PROXY///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-noob-cloud/xyz.luccboy.noobcloud.api.group/-group-type/-p-r-o-x-y/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.group/GroupType///PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.group/-group-type/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.group/GroupType/valueOf/#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.group/-group-type/value-of.html
+$dokka.location:xyz.luccboy.noobcloud.api.group/GroupType/values/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.group/-group-type/values.html
+$dokka.location:xyz.luccboy.noobcloud.api.player////PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.player/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.player/CloudPlayer///PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.player/-cloud-player/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.player/CloudPlayer/connect/#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.player/-cloud-player/connect.html
+$dokka.location:xyz.luccboy.noobcloud.api.player/CloudPlayer/getServer/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.player/-cloud-player/get-server.html
+$dokka.location:xyz.luccboy.noobcloud.api.player/CloudPlayer/getUUID/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.player/-cloud-player/get-u-u-i-d.html
+$dokka.location:xyz.luccboy.noobcloud.api.player/CloudPlayer/getUsername/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.player/-cloud-player/get-username.html
+$dokka.location:xyz.luccboy.noobcloud.api.server////PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/GameState.AVAILABLE///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-noob-cloud/xyz.luccboy.noobcloud.api.server/-game-state/-a-v-a-i-l-a-b-l-e/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/GameState.COUNTDOWN///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-noob-cloud/xyz.luccboy.noobcloud.api.server/-game-state/-c-o-u-n-t-d-o-w-n/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/GameState.ENDING///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-noob-cloud/xyz.luccboy.noobcloud.api.server/-game-state/-e-n-d-i-n-g/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/GameState.INGAME///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-noob-cloud/xyz.luccboy.noobcloud.api.server/-game-state/-i-n-g-a-m-e/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/GameState.PROXY///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-noob-cloud/xyz.luccboy.noobcloud.api.server/-game-state/-p-r-o-x-y/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/GameState///PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-game-state/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/GameState/valueOf/#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-game-state/value-of.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/GameState/values/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-game-state/values.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server///PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/index.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server/getGameState/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/get-game-state.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server/getGroupName/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/get-group-name.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server/getGroupType/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/get-group-type.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server/getMotd/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/get-motd.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server/getName/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/get-name.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server/getOnlineCount/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/get-online-count.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server/getPort/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/get-port.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server/getUUID/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/get-u-u-i-d.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server/isStatic/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/is-static.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server/sendServerMessage/#kotlin.collections.List[kotlin.String]/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/send-server-message.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server/setGameState/#xyz.luccboy.noobcloud.api.server.GameState/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/set-game-state.html
+$dokka.location:xyz.luccboy.noobcloud.api.server/Server/setMotd/#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api.server/-server/set-motd.html
+$dokka.location:xyz.luccboy.noobcloud.api////PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/index.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI.Companion///PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/-companion/index.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI.Companion/getInstance/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/-companion/get-instance.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI///PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/index.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/NoobCloudAPI/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/-noob-cloud-a-p-i.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/connectCloudPlayer/#xyz.luccboy.noobcloud.api.player.CloudPlayer#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/connect-cloud-player.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getAllGameGroups/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-all-game-groups.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getAllGameServers/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-all-game-servers.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getAllGroups/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-all-groups.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getAllPlayers/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-all-players.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getAllProxyGroups/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-all-proxy-groups.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getAllProxyServers/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-all-proxy-servers.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getAllServers/#/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-all-servers.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getCloudPlayer/#java.util.UUID/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-cloud-player.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getCloudPlayer/#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-cloud-player.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getGroup/#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-group.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getGroupOnlineCount/#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-group-online-count.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getMotd/#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-motd.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getServerByName/#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-server-by-name.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getServerByUUID/#java.util.UUID/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-server-by-u-u-i-d.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getUUIDByUsername/#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-u-u-i-d-by-username.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/getUsernameByUUID/#java.util.UUID/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/get-username-by-u-u-i-d.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/setMotd/#kotlin.String#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/set-motd.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/startServer/#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/start-server.html
+$dokka.location:xyz.luccboy.noobcloud.api/NoobCloudAPI/stopServer/#kotlin.String/PointingToDeclaration/-noob-cloud/xyz.luccboy.noobcloud.api/-noob-cloud-a-p-i/stop-server.html
+xyz.luccboy.noobcloud.api
+xyz.luccboy.noobcloud.api.events.minestom
+xyz.luccboy.noobcloud.api.events.velocity
+xyz.luccboy.noobcloud.api.group
+xyz.luccboy.noobcloud.api.player
+xyz.luccboy.noobcloud.api.server
+

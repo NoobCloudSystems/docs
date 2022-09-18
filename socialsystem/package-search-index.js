@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"xyz.luccboy.socialsystem.api"},{"l":"xyz.luccboy.socialsystem.api.data"},{"l":"xyz.luccboy.socialsystem.api.managers"}];updateSearchResults();
